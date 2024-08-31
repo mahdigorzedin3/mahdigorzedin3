@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahdigorzedin3
-- 👀 I’m interested in hack and security of systems
-- 🌱 I’m currently learning : javascript , python  , Go
-- 💞️ I’m looking to collaborate on taking javascript project and hacking stuff (i'll do it for free.)
+- 👀 I’m interested in hacking and security of websites
+- 🌱 my main progrmming language is javascript
+- 💞️ I’m looking to collaborate on taking javascript project and hacking stuff
 - 📫 How to reach me : email to => mahdigorzedin@gmail.com
 
 <!---
